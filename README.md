@@ -12,7 +12,9 @@ MySQL
    - Replace USERNAME with the your local instance MySQL username, which is usually root
    - Replace PATH with the actual path of /source/book.sql file
    - Input the password for your local instance MySQL afterwards
+
 mysql -u USERNAME -p book < PATH
+
 5. In book schema, the following tables are important:
    - auth_user stores all the users including readers, staff and superusers
    - books stores the book info
