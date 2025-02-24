@@ -1,2 +1,2 @@
 # library-management-system
-Adaptive and good-looking library management system website implemented with Django, MySQL and Materialize
+Good-looking, adaptive and powerful library management system website implemented with python package Django, using MySQL for database and materialize for web design, embedded with a lot of nice features.
